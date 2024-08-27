@@ -1,0 +1,17 @@
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  /* padding: 2rem;ss */
+  margin-top: 100px;
+  text-align: center;
+  /* border:1px solid white; */
+}
+
+.container{
+  padding: 10px;
+  width:100%;
+  /* border:1px solid cyan; */
+  border-radius: 20px;
+}
+
+
